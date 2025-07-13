@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+Don't forget to put on pants.
